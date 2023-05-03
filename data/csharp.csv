@@ -1,0 +1,6 @@
+User Story Title,User Story Description,Task
+"As a user, I want to create API for CRUD operations","CRUD operations : Create, Update and Delete Operations","[{""title"": ""Adding new user"", ""description"": ""Creation of a new resource""},
+{""title"": ""updating existing user details"", ""description"": ""Using modifying operations""},
+{""title"": ""deleting a user from a table"", ""description"": ""Doing delete operations""}]"
+"As a user, I want to implement logging into the code, to integrate ADX, for trace analysis",To incorporate logging for RCA and stack traces.,"[{""title"": ""To log data into Traces, exceptions and events table"", ""description"": ""Logging""}
+]"

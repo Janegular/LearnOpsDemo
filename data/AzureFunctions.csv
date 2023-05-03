@@ -1,0 +1,7 @@
+User Story Title,User Story Description,Task
+"As a user, I want a HTTP Triggered Azure Function to send the user details as response","When the user sends a request with User ID to the Function, they should receive the User name and User role as response","[{""title"": ""Create HTTP Trigger Function"", ""description"": ""Creating a HTTP trigger function for a Post Request""},
+{""title"": ""Configuring Request and Response"", ""description"": ""Defining Request and response of the Function as per AC""},
+{""title"": ""Unit Test"", ""description"": ""Writing the Unit test cases for the function""}]"
+"As a new user, I want to signup with my details to create an account","When a new user adds the valid details in the sign up form, they should be able to create a new account","[{""title"": ""Adding frontend Validation to Form Inputs"", ""description"": ""Adding validations to each field as defined in AC""},
+{""title"": ""Configuring Submit Request"", ""description"": ""Implementing form Submission request as per API contract""},
+{""title"": ""Unit Test"", ""description"": ""Writing the Unit test cases for Sign up page""}]"
